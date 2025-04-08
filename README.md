@@ -1,1 +1,1 @@
-# Complete-Data-Science-And-GenAI-Course-In-Udemy
+# Complete-Data-Science-And-GenAI-Courses-In-Udemy
