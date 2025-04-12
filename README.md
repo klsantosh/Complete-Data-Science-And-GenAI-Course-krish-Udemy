@@ -34,6 +34,13 @@ Build the mathematical foundation you need to understand Data Science, ML, and G
 Learn Python, SQL, Statistics, EDA, and Power BI in one complete bootcamp to become a job-ready Data Analyst.
 
 ---
+### 📊 3.1. 13 Power BI Projects with SQL & DAX !!
+
+**[Enroll Now](https://www.udemy.com/course/13-power-bi-projects-with-dax-sql/?couponCode=APRIL01)**  
+Master data integration, cleaning, modeling and visualization with 10+ sources, including on-prem and cloud platforms..
+
+---
+
 
 ### 🧠 4. Complete Computer Vision Bootcamp With PyTorch and TensorFlow
 
