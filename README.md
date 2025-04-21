@@ -79,7 +79,7 @@ Design stunning UI/UX using Figma with practical projects — perfect for develo
 ---
 
 ### 9. Upcoming Courses
-1. **Complete Agentic AI And MCP Bootcamp With LangGraph**
+1. **Complete Agentic AI And MCP Bootcamp With LangGraph(Date May 15th 2025)**
 
 ---
 
