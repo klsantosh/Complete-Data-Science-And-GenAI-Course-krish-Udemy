@@ -36,6 +36,7 @@ _Replace `MONTH` with the current month name._
 
 - 📊 [**Complete Data Analyst Bootcamp from Basics to Advanced**](https://www.udemy.com/course/complete-data-analyst-bootcamp-from-basics-to-advanced/?couponCode=AUGUST01)
 - 📈 [**13 Power BI Projects with DAX & SQL**](https://www.udemy.com/course/13-power-bi-projects-with-dax-sql/?couponCode=AUGUST01)
+- 📈 [**AI Powered Data Analytics Mastery - AI Tools & Vibe Coding**](https://www.udemy.com/course/ai-powered-data-analytics-mastery-ai-tools-vibe-coding/?couponCode=AUGUST01)
 
 ---
 
