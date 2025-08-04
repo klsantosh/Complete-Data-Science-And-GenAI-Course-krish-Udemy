@@ -93,3 +93,4 @@ _Replace `MONTH` with the current month name._
 
 👨‍🏫 _Instructor: Krish Naik_  
 🌍 _Educating AI learners in over 185+ countries_
+For Live Courses Visit https://krishnaik.in/liveclasses
