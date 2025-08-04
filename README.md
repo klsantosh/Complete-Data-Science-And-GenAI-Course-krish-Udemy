@@ -1,6 +1,8 @@
 # 📚 Structured AI Learning Roadmap with Krish Naik's Udemy Courses
 
 🚀 **All Courses Available at ₹399 / $9**
+🎓 **Trusted by over 350,000+ learners worldwide with 50,000+ ratings averaging 4.7/5.**  
+⏱️ **160 million+ minutes of watch time.**  
 
 Welcome to your complete roadmap for mastering AI, Data Science, and MLOps! Whether you're just starting out or looking to specialize in Agentic AI, Big Data, or Generative AI—this roadmap has you covered.
 
