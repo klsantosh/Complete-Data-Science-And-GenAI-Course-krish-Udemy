@@ -1,94 +1,94 @@
-# Complete-Data-Science-And-GenAI-Courses-In-Udemy
+# 📚 Structured AI Learning Roadmap with Krish Naik's Udemy Courses
 
-# 🚀 Master Data Science, Generative AI, and More with Krish Naik's Udemy Courses
+🚀 **All Courses Available at ₹399 / $9**
 
-These Udemy courses are designed not just to **teach** you, but to truly make you **fall in love with Data Science and Generative AI** ❤️.
-
-With **31,000+ reviews** and an average rating of **4.7/5**, alongside **64 million+ minutes of watch time**, these courses are helping thousands of learners every day to transform their careers. Whether you're just starting out or want to level up your skills — these structured, hands-on courses are all you need!
+Welcome to your complete roadmap for mastering AI, Data Science, and MLOps! Whether you're just starting out or looking to specialize in Agentic AI, Big Data, or Generative AI—this roadmap has you covered.
 
 ---
 
-## 📚 Learn AI, Data Science, MLOps & More — Structured Roadmap to Succeed
+## 🏷️ Monthly Coupon Schedule
 
-Use the following roadmap to accelerate your journey in **Data Science**, **Generative AI**, or as a **Data Analyst**:
+🎁 **New coupons are released three times every month**:
 
----
+- **5th of the month** → Coupon: `AUGUST01`  
+- **15th of the month** → Coupon: `AUGUST02`  
+- **25th of the month** → Coupon: `AUGUST03`
 
-### 👨‍💻 1. Complete Python With DSA Bootcamp + LEETCODE Exercises
+📌 *Example for August:*  
+Use coupon codes `August01`, `August02`, or `August03` to get access at ₹399 / $9.
 
-**[Enroll Now](https://www.udemy.com/course/complete-python-dsa-bootcamp/?couponCode=APRIL03)**  
-Master Python programming and Data Structures from basics to advanced with hands-on LeetCode problems.
-
----
-
-### ➕ 2. Mathematics - Basics to Advanced for Data Science And GenAI
-
-**[Enroll Now](https://www.udemy.com/course/mathematics-basics-to-advanced-for-data-science-and-ml/?couponCode=APRIL03)**  
-Build the mathematical foundation you need to understand Data Science, ML, and Generative AI concepts.
+_Replace `MONTH` with the current month name._
 
 ---
 
-### 📊 3. Complete Data Analyst Bootcamp From Basics To Advanced
+## 🔰 Foundation: Programming & Mathematics
 
-**[Enroll Now](https://www.udemy.com/course/complete-data-analyst-bootcamp-from-basics-to-advanced/?couponCode=APRIL03)**  
-Learn Python, SQL, Statistics, EDA, and Power BI in one complete bootcamp to become a job-ready Data Analyst.
+> Start here if you're new to programming or need a strong foundation in math for AI.
 
----
-### 📊 3.1. 13 Power BI Projects with SQL & DAX !!
-
-**[Enroll Now](https://www.udemy.com/course/13-power-bi-projects-with-dax-sql/?couponCode=APRIL03)**  
-Master data integration, cleaning, modeling and visualization with 10+ sources, including on-prem and cloud platforms..
+- 🔢 [**Mathematics for Data Science (Basic to Advanced)**](https://www.udemy.com/course/mathematics-basics-to-advanced-for-data-science-and-ml/?couponCode=AUGUST01)
+- 🐍 [**Complete Python With DSA Bootcamp**](https://www.udemy.com/course/complete-python-dsa-bootcamp/?couponCode=AUGUST01)
 
 ---
 
+## 📊 Data Analytics Track
 
-### 🧠 4. Complete Computer Vision Bootcamp With PyTorch and TensorFlow
+> Perfect for aspiring Data Analysts and BI professionals.
 
-**[Enroll Now](https://www.udemy.com/course/complete-computer-vision-bootcamp-with-pytoch-tensorflow/?couponCode=APRIL03)**  
-Master object detection, image classification, CNNs, and real-world Computer Vision projects using TensorFlow and PyTorch.
-
----
-
-### 🤖 5. Complete Generative AI Course With Langchain and Huggingface
-
-**[Enroll Now](https://www.udemy.com/course/complete-generative-ai-course-with-langchain-and-huggingface/?couponCode=APRIL03)**  
-Learn how to build GenAI apps using Langchain, Huggingface, LLMs, RAG pipelines, and AI agents.
+- 📊 [**Complete Data Analyst Bootcamp from Basics to Advanced**](https://www.udemy.com/course/complete-data-analyst-bootcamp-from-basics-to-advanced/?couponCode=AUGUST01)
+- 📈 [**13 Power BI Projects with DAX & SQL**](https://www.udemy.com/course/13-power-bi-projects-with-dax-sql/?couponCode=AUGUST01)
 
 ---
 
-### 🔁 6. Complete MLOps Bootcamp With 10+ End To End ML Projects
+## 🤖 Data Science & Machine Learning Track
 
-**[Enroll Now](https://www.udemy.com/course/complete-mlops-bootcamp-with-10-end-to-end-ml-projects/?couponCode=APRIL03)**  
-Deploy real-world ML projects using MLflow, DVC, Airflow, GitHub Actions, Docker, and more.
+> Learn everything from ML algorithms to deployment.
 
----
-
-### ☁️ 7. Beginner to Advanced MLOps on GCP - CI/CD, Kubernetes, Jenkins
-
-**[Enroll Now](https://www.udemy.com/course/mastering-advanced-mlops-on-gcp-cicd-kubernetes-kubeflow/?couponCode=APRIL03)**  
-Learn cloud-based MLOps with Google Cloud, Kubeflow, CI/CD pipelines, and production-grade ML architecture.
+- 🧠 [**Complete Data Science NLP with Deployment (Includes MLOps)**](https://www.udemy.com/course/complete-machine-learning-nlp-bootcamp-mlops-deployment/?couponCode=AUGUST01)
+- 👁️‍🗨️ [**Complete Computer Vision Bootcamp with PyTorch & TensorFlow**](https://www.udemy.com/course/complete-computer-vision-bootcamp-with-pytoch-tensorflow/?couponCode=AUGUST01)
 
 ---
 
-### 🎨 8. Mastering Figma from 0 to 100 (UI/UX Mastery Course)
+## 🧠 Generative AI & Agentic AI Track
 
-**[Enroll Now](https://www.udemy.com/course/mastering-figma-from-0-to-100/?couponCode=APRIL03)**  
-Design stunning UI/UX using Figma with practical projects — perfect for developers and designers alike.
+> Learn the latest innovations in GenAI and autonomous agent systems.
 
----
----
-
-### 9. Upcoming Courses
-1. **Complete Agentic AI And MCP Bootcamp With LangGraph(Date May 15th 2025)**
+- 🔗 [**Complete Generative AI with Langchain & Huggingface**](https://www.udemy.com/course/complete-generative-ai-course-with-langchain-and-huggingface/?couponCode=AUGUST01)
+- 🌐 [**Complete Agentic AI Bootcamp with LangGraph & LangChain**](https://www.udemy.com/course/complete-agentic-ai-bootcamp-with-langgraph-and-langchain/)
+- 🤖 [**Agentic AI System with Microsoft Autogen**](https://www.udemy.com/course/building-ai-agents-agentic-ai-system-via-microsoft-autogen/?couponCode=AUGUST01)
 
 ---
 
-## 🔗 Why Join?
-- ✅ Real-World Projects
-- ✅ Hands-on Coding
-- ✅ Career-Focused Roadmap
-- ✅ Lifetime Access
-- ✅ Constant Updates with Latest Tech
+## 🏗️ MLOps & Deployment Track
 
-🧠 **To Learn AI Technically and Practically, follow these structured courses.**  
-📈 **Commit to your learning journey. You won't regret it!**
+> Build, scale, and deploy real-world AI projects using modern MLOps tools.
+
+- 🚀 [**Complete MLOps Bootcamp with 10 End-to-End Projects**](https://www.udemy.com/course/complete-mlops-bootcamp-with-10-end-to-end-ml-projects/?couponCode=AUGUST01)
+- ☁️ [**Advanced MLOps on GCP: CI/CD, Kubernetes, Kubeflow**](https://www.udemy.com/course/mastering-advanced-mlops-on-gcp-cicd-kubernetes-kubeflow/?couponCode=AUGUST01)
+- ☁️ [**LLMOps And AIOps Bootcamp With 9+ End To End Projects**](https://www.udemy.com/course/llmops-and-aiops-bootcamp-with-9-end-to-end-projects/?couponCode=AUGUST01)
+
+---
+
+## 💽 Big Data Engineering Track
+
+> Master scalable data processing with GCP, Azure, and real-time tools.
+
+- 🗃️ [**Complete Big Data Bootcamp (GCP & Azure Cloud)**](https://www.udemy.com/course/big-data-engineering-bootcamp-with-gcp-and-azure-cloud/?couponCode=AUGUST01)
+
+---
+
+## 🧭 Suggested Learning Order
+
+1. **Python + Math Foundation**
+2. **Data Analytics or Data Science Track**
+3. **Branch into Generative AI or MLOps**
+4. **Advance with Big Data and Agentic AI**
+
+---
+
+📝 *Each course includes hands-on projects, practical case studies, and real-world deployment experience.*  
+🎯 *Perfect for students, professionals, and career switchers aiming to excel in AI/ML.*
+
+---
+
+👨‍🏫 _Instructor: Krish Naik_  
+🌍 _Educating AI learners in over 185+ countries_
