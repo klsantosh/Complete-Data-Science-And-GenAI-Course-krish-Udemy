@@ -79,6 +79,11 @@ _Replace `MONTH` with the current month name._
 
 ---
 
+## Figma Course for UI UX Design
+
+https://www.udemy.com/course/mastering-figma-from-0-to-100/?couponCode=AUGUST01
+
+
 ## 🧭 Suggested Learning Order
 
 1. **Python + Math Foundation**
