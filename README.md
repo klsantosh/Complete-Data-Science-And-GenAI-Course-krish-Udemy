@@ -57,6 +57,7 @@ _Replace `MONTH` with the current month name._
 
 - 🔗 [**Complete Generative AI with Langchain & Huggingface**](https://www.udemy.com/course/complete-generative-ai-course-with-langchain-and-huggingface/?couponCode=AUGUST01)
 - 🌐 [**Complete Agentic AI Bootcamp with LangGraph & LangChain**](https://www.udemy.com/course/complete-agentic-ai-bootcamp-with-langgraph-and-langchain/)
+- 🤖 [**Ultimate RAG Bootcamp With Langchain And LangGraph**](https://www.udemy.com/course/ultimate-rag-bootcamp-using-langchainlanggraph-langsmith/?couponCode=BESTRAG)
 - 🤖 [**Agentic AI System with Microsoft Autogen**](https://www.udemy.com/course/building-ai-agents-agentic-ai-system-via-microsoft-autogen/?couponCode=AUGUST01)
 
 ---
