@@ -56,9 +56,9 @@ _Replace `MONTH` with the current month name._
 > Learn the latest innovations in GenAI and autonomous agent systems.
 
 - 🔗 [**Complete Generative AI with Langchain & Huggingface**](https://www.udemy.com/course/complete-generative-ai-course-with-langchain-and-huggingface/?couponCode=AUGUST01)  **-- 46h -- 50 sections**
-- 🌐 [**Complete Agentic AI Bootcamp with LangGraph & LangChain**] **-- 36h -- 21 sections** -- (https://www.udemy.com/course/complete-agentic-ai-bootcamp-with-langgraph-and-langchain/)
-- 🤖 [**Ultimate RAG Bootcamp With Langchain And LangGraph**] **-- 28h -- 24 sections** -- (https://www.udemy.com/course/ultimate-rag-bootcamp-using-langchainlanggraph-langsmith/?couponCode=BESTRAG)
-- 🤖 [**Agentic AI System with Microsoft Autogen**] **-- 34h -- 14 sections** -- (https://www.udemy.com/course/building-ai-agents-agentic-ai-system-via-microsoft-autogen/?couponCode=AUGUST01)
+- 🌐 [**Complete Agentic AI Bootcamp with LangGraph & LangChain**](https://www.udemy.com/course/complete-agentic-ai-bootcamp-with-langgraph-and-langchain/)  **-- 36h -- 21 sections**
+- 🤖 [**Ultimate RAG Bootcamp With Langchain And LangGraph**](https://www.udemy.com/course/ultimate-rag-bootcamp-using-langchainlanggraph-langsmith/?couponCode=BESTRAG) **-- 28h -- 24 sections**
+- 🤖 [**Agentic AI System with Microsoft Autogen**](https://www.udemy.com/course/building-ai-agents-agentic-ai-system-via-microsoft-autogen/?couponCode=AUGUST01) **-- 34h -- 14 sections**
 
 ---
 
